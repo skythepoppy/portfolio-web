@@ -1,0 +1,8 @@
+title;description;url;image
+To-do App;A distraction-free desktop app to help you focus on creating and completing tasks.;https://github.com/skythepoppy/task-app;taskdo.png
+To-Do Web App;This is a similar to-do application but uploaded to the cloud using Streamlit;https://github.com/skythepoppy/todo_web;todoweb.png
+Daily Newsletter;An application that accesses news (via NewsApi) and sends them by email as a daily newsletter;https://github.com/skythepoppy/daily-newsletter;newsletter.png
+Music Tour Scraper;A program that checks a music band's website and sends an email when there are new tours using Python and SQLite.; https://github.com/skythepoppy/music-event-scraper;musicscraper.png
+Vehicular AI Presets;A full stack web application AI facial recognition and machine learning to automate vehicle driver presets.Developed with a team at the HACKUTD hackathon using react.js, Python, and Firebase.;https://github.com/aerongcanlas/hack-utd-2022/;VAIP.png
+Historical Weather API;Developed a REST API using Flask, that accesses historical temperature data from various European Cities;https://github.com/skythepoppy/historical-weather-api;weatherapi.png
+Weather Dashboard;A web application that presents temperature and forecast by accessing global weather data from an API;https://github.com/skythepoppy/weather-dashboard;forecast.png
