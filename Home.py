@@ -14,17 +14,8 @@ def open_page(url):
     html(open_script)
 
 
-file = open("/Users/raphaelevangelista/Desktop/portfolio-web/images/homepage.gif", 'rb')
-contents = file.read()
-data_url = base64.b64encode(contents).decode('utf-8')
-file.close()
 
-ex1, ex2, ex3 = st.columns([1.5,0.5,1.5])
-with ex2:
-    st.markdown(
-        f'<img src="data:image/gif;base64,{data_url}" alt="cat gif">',
-        unsafe_allow_html=True,
-    )
+
 
 
 ex4, ex5, ex6, ex7,ex8= st.columns([1.5,1,0.5,0.5,1.5])
