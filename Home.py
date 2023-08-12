@@ -15,9 +15,6 @@ def open_page(url):
 
 
 
-
-
-
 ex4, ex5, ex6, ex7,ex8= st.columns([1.5,1,0.5,0.5,1.5])
 with ex5:
     st.header("Raphael Evangelista")
@@ -73,7 +70,7 @@ with c9:
                "to complete our project 'Vehicular AI Presets' and present it to companies such as Toyota and Statefarm!"
                "")
 with c10:
-    st.image("images/EE.jpg")
+    st.image("images/EE.JPG")
     st.caption("My first hackathon was during my sophomore year "
                "at the 48 hour A&M Engineering Entrepreneurship Hackathon! The theme that year was SOCOM, "
                "geared towards the Army and Special Operations. As a group we developed a prototype reconnaissance "
