@@ -63,7 +63,7 @@ with m2:
 
                 **Databases** : *sqlite* , *firebase* , *mysql* , *oracle* 
 
-                **Other**: *Splunk* , *Better Stack*
+                **Other**: *Splunk* , *Better Stack*, *Agile* , *Kanban*,
         """)
 
 line4,line5,line6 = st.columns([1.5,2,1.5])
@@ -88,6 +88,7 @@ with c10:
 
 
 line7,line8,line9 = st.columns([1.5,2,1.5])
+
 with line8:
     st.write('-'*5)
 
