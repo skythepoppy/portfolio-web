@@ -1,5 +1,5 @@
 title;description;url;image
-Restaurant Menu App; A web application that displays a Filipino restaurant menu and allows users to see additional menu item info. Made with Django - Python, SQLite, HTML, and CSS.;menu.png
+Restaurant Menu App; A web application that displays a Filipino restaurant menu and allows users to see additional menu item info. Made with Django - Python, SQLite, HTML, and CSS.;https://github.com/skythepoppy/restaurant-menu-app;menu.png
 To-do App;A distraction-free desktop app to help you focus on creating and completing tasks.;https://github.com/skythepoppy/task-app;taskdo.png
 To-Do Web App;This is a similar to-do application but uploaded to the cloud using Streamlit;https://github.com/skythepoppy/todo_web;todoweb.png
 Daily Newsletter;An application that accesses news (via NewsApi) and sends them by email as a daily newsletter;https://github.com/skythepoppy/daily-newsletter;newsletter.png
