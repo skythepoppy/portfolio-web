@@ -9,3 +9,4 @@ Vehicular AI Presets;A full stack web application AI facial recognition and mach
 Historical Weather API;Developed a REST API using Flask, that accesses historical temperature data from various European Cities;https://github.com/skythepoppy/historical-weather-api;weatherapi.png
 Weather Dashboard;A web application that presents temperature and forecast by accessing global weather data from an API;https://github.com/skythepoppy/weather-dashboard;forecast.png
 User Blog App; Developed the “Crank some Code” tech blog that allows users to include personal anecdotes about their experience in the tech industry. Utilized Django and SQLite to allow user registration, login authentication, image upload, and blog post upload with ‘likes’.;https://github.com/skythepoppy/user-blog-app;blog.png
+Python Package: PDF Invoice; Created a python package titled 'pdf-invoice' that converts Excel invoices into PDF invoices;https://github.com/skythepoppy/pythonPackage;pypackage.png
