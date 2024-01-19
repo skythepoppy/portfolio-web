@@ -62,9 +62,9 @@ with st.container():
     st.header("Technical Skills")
     content = """
             * Languages: Python, C++, Java, Javascript 
-            * Frameworks: Flask, Django, React
+            * Frameworks: Flask, Django, React, Tailwind
             * Operating Systems: Windows, Linux 
-            * Other: SQLite, Firebase, Splunk
+            * Other: SQLite, PostgreSQL, Firebase, Splunk
     """
     st.info(content)
 
