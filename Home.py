@@ -61,7 +61,7 @@ with m2:
 
                 **Web Dev**: *Flask* , *Django* , *React* , *Tailwind CSS* , *Redux* , *Node*
 
-                **Databases** : *sqlite* , *firebase* , *mysql* , *oracle* 
+                **Databases** : *sqlite* , *PostgreSQL*,  *firebase* , *mysql* , *oracle* 
 
                 **Other**: *Splunk* , *Better Stack*, *Agile* , *Kanban*,
         """)
